@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marouria
-- 👀 I’m interested in traveling, ceramic handcrafting & zero waste
+- 👀 I’m interested in traveling, social initiatives & zero waste
 - 🌱 I’m currently learning Ruby on Rails
-- 🗺 I'm working on [Volunterra](https://www.instagram.com/volunterra_/)
+- 🗺 Social entrepreneur at [Volunterra](https://www.instagram.com/volunterra_/)
