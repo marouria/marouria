@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marouria
-- 👀 I’m interested in traveling, social initiatives & zero waste
+- 👀 I’m interested in UX/UI design, social initiatives & zero waste
 - 🌱 I’m currently learning React Native
-- 🗺 Social entrepreneur at [Volunterra](https://www.instagram.com/volunterra_/)
+- 🗺 Volunteering at [Emmaus Connect](https://emmaus-connect.org/)
