@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marouria
+- 👋 Hi, I’m @marouria Ruby On Rails Developer
 - 👀 I’m interested in UX/UI design, social initiatives & zero waste
 - 👩‍🎓 le Wagon Alumni batch #625
 - 🌱 I’m currently learning React Native
