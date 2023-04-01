@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @marouria Ruby On Rails Developer
+- 👋 Hi, I’m @marouria
+- Ruby On Rails 💎 & Vuejs 🕶️ Developer
 - 👀 I’m interested in UX/UI design, social initiatives & zero waste
 - 👩‍🎓 le Wagon Alumni batch #625
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning UI Design
 - Volunteering at [Emmaus Connect](https://emmaus-connect.org/) for digital inclusion
