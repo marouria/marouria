@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marouria
-- Ruby On Rails 💎 & Vuejs 🕶️ Developer
-- 👀 I’m interested in UX/UI design, social initiatives & zero waste
+- I'm a french frontend Developer 💜 Vue.js
+- I know some backend stuff also
 - 👩‍🎓 le Wagon Alumni batch #625
 - 🌱 I’m currently learning UI Design
-- Volunteering at [Emmaus Connect](https://emmaus-connect.org/) for digital inclusion
+Fun fact : I used to be an NGO project manager for 5 years in South-East Asia
