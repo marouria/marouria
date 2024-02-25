@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @marouria
-- I'm a french frontend Developer 💜 Vue.js
+- I'm a french frontend Developer & UI designer
 - I know some backend stuff also
 - 👩‍🎓 le Wagon Alumni batch #625
-- 🌱 I’m currently learning UI Design
