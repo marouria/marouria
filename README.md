@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @marouria
-- I'm a french frontend Developer & UI designer
-- I know some backend stuff also
+- I'm a french Frontend Developer & UI Designer
+- I also know some backend stuff
 - 👩‍🎓 le Wagon Alumni batch #625
+- Currenlty in 📍 Seoul
